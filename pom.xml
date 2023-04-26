@@ -735,5 +735,11 @@
 			<artifactId>simplemagic</artifactId>
 			<version>${simplemagic.version}</version>
 		</dependency>
-	</dependencies>
+        <dependency>
+            <groupId>com.github.javadev</groupId>
+            <artifactId>underscore</artifactId>
+            <version>1.88-SNAPSHOT</version>
+            <scope>compile</scope>
+        </dependency>
+    </dependencies>
 </project>
